@@ -5,7 +5,7 @@ The project is about how we could start a similar New York City bike share busin
 
 ## Resources
   - Framework: Python 3.9.7, Jupyter Notebook and Pandas 1.2.4
-  - Datasource: 201908-citibike-tripdata.csv from <a href="https://ride.citibikenyc.com/system-data">Citi Bike Trip Histories</a>
+  - Datasource: 201908-citibike-tripdata.csv from [Citi Bike Trip Histories](https://ride.citibikenyc.com/system-data)
   - Visual analytics platform: Tableau Public 2021.4.1
 
 ## Results
