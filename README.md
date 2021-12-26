@@ -51,3 +51,7 @@ The number of trips by gender has the peak stop time between 07:00 and 08:00 hou
 
 <img src="Resources/story7.PNG" width="650" />
 
+The Subscriber user types have the most trips by gender. Weekdays, except Wednesday, have the peak of service request by female and male gender. The Customer user types likely purchase the subscription due to the facility for their commutes.
+
+## Summary
+We conclude a bike-sharing program is a solid business proposal in Des Moines, Iowa. It is likely to work similary as in New York City. The 2,344,224 number of rides only in August 2019 in New York City is the outcome of a successful business. No matter gender, the benefits of bike-sharing schemes include transport flexibility, reductions in vehicle emissions, health benefits, reduced congestion, fuel consumption, and financial savings for individuals.
