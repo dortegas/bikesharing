@@ -58,5 +58,5 @@ We conclude a bike-sharing program is a solid business proposal in Des Moines, I
 
 For future analysis, we suggest two additional visualizations:
 
-  - The
+  - The behavior of bike-sharing service requests all year considering weather conditions in New York City and its comparison with Des Moines weather.
   - 
