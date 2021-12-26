@@ -16,3 +16,9 @@ We created a story that explains why we think, given the data, that starting a b
 <img src="Resources/story1.PNG" width="650" />
 
 The analysis of the data bike-sharing program in New York City in August 2019 showcases that all-day the service is requested, no matter the hours. At 8.00 am, there is the peak service request, around 170,730 trips. The highest service request is between 17:00 and 18:00 hours, 224,566 and 215,783 trips, respectively.
+
+**Top Ending Locations**
+
+<img src="Resources/story2.PNG" width="650" />
+
+The station's location showcase you could have a bike trip everywhere to know the city and interact with the people who live there. For instance, the top start and end locations are around China Town and Lower Manhattan but there are activities in all stations in New York City.
