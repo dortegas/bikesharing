@@ -27,4 +27,10 @@ The station's location showcase you could have a bike trip everywhere to know th
 
 <img src="Resources/story3.PNG" width="650" />
 
-Checkout times for users showcases that the peak trip duration is 5.25 minutes with 146,132 bikes. Inclusive, there are trips almost 24 hours with three bikes. 
+Checkout times for users showcases that the peak trip duration is 5.25 minutes with 146,132 bikes. Inclusive, there are trips almost 24 hours with three bikes.
+
+**Checkout Times by Gender**
+
+<img src="Resources/story4.PNG" width="650" />
+
+The checkout times peak by male gender is 4.28 minutes with 107,152 bikes, while female gender is 5.74 minutes with 34,190 bike, and by unknown gender is 10.83 minutes with 7,850 bikes.
