@@ -58,4 +58,5 @@ We conclude a bike-sharing program is a solid business proposal in Des Moines, I
 
 For future analysis, we suggest two additional visualizations:
 
-    - The
+  - The
+  - 
