@@ -45,4 +45,9 @@ The number of bike trips by weekday for each hour of the day showcases bike-shar
 
 <img src="Resources/story6.PNG" width="650" />
 
+The number of trips by gender has the peak stop time between 07:00 and 08:00 hours and between 17:00 and 18:00 hours. For instance, by male gender, Thursday has the peak of 30,561 trips with a stop time at 17:00 hours.
+
+**User Trips by Gender by Weekday**
+
+<img src="Resources/story7.PNG" width="650" />
 
