@@ -55,3 +55,7 @@ The Subscriber user types have the most trips by gender. Weekdays, except Wednes
 
 ## Summary
 We conclude a bike-sharing program is a solid business proposal in Des Moines, Iowa. It is likely to work similary as in New York City. The 2,344,224 number of rides only in August 2019 in New York City is the outcome of a successful business. No matter gender, the benefits of bike-sharing schemes include transport flexibility, reductions in vehicle emissions, health benefits, reduced congestion, fuel consumption, and financial savings for individuals.
+
+For future analysis, we suggest two additional visualizations:
+
+    - The
