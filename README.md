@@ -9,4 +9,4 @@ The project is about how we could start a similar New York City bike share busin
   - Visual analytics platform: Tableau Public 2021.4.1
 
 ## Results
-We created a story that explains why we think, given the data, that starting a bike sharing company in Des Moines is a good idea. [link to dashboard](https://public.tableau.com/app/profile/david.ortega.segura/viz/citibike_16401910386320/Citibike)
+We created a story that explains why we think, given the data, that starting a bike sharing company in Des Moines is a good idea: [link to dashboard](https://public.tableau.com/app/profile/david.ortega.segura/viz/citibike_16401910386320/Citibike)
