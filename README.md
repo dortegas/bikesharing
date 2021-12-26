@@ -34,3 +34,15 @@ Checkout times for users showcases that the peak trip duration is 5.25 minutes w
 <img src="Resources/story4.PNG" width="650" />
 
 The checkout times peak by male gender is 4.28 minutes with 107,152 bikes, while female gender is 5.74 minutes with 34,190 bike, and by unknown gender is 10.83 minutes with 7,850 bikes.
+
+**Trips by Weekday for Each Hour**
+
+<img src="Resources/story5.PNG" width="650" />
+
+The number of bike trips by weekday for each hour of the day showcases bike-sharing as one of the favorite types of green transportation. Thursday is the weekday with the most service request of 44,905 trips at 6 pm as the start time.
+
+**Trips by Gender (Weekday per Hour)**
+
+<img src="Resources/story6.PNG" width="650" />
+
+
