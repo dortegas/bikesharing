@@ -22,3 +22,9 @@ The analysis of the data bike-sharing program in New York City in August 2019 sh
 <img src="Resources/story2.PNG" width="650" />
 
 The station's location showcase you could have a bike trip everywhere to know the city and interact with the people who live there. For instance, the top start and end locations are around China Town and Lower Manhattan but there are activities in all stations in New York City.
+
+**Checkout Times for Users**
+
+<img src="Resources/story3.PNG" width="650" />
+
+Checkout times for users showcases that the peak trip duration is 5.25 minutes with 146,132 bikes. Inclusive, there are trips almost 24 hours with three bikes. 
